@@ -1,25 +1,34 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+//import UseEffects1 from "./component/useEffect/useEffects1"
+//import UseEffect2 from "./component/useEffect/useEffect2"
+import UseEffectAPI from "./UseEffectAPI"
+//import Uncontrolled from "./component/forms/uncontrolled";
+//import UseReducer from "./component/useReducer/useReducer";
+//import ComA from "./component/useContext/ComA";
+//import Test from "./component/useEffect/github/test";
+//import Home from "./component/myapp/home";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+
+  // console.log(useState('thapa technical'));
+  // let myfirstVal = useState('thapa')[0];
+  // console.log(myfirstVal);
+
+  // var val = 'thapa technical';
+
+  // const [myName, setMyName] = useState('thapa techncial Subs');
+
+  // const changeName = () => {
+  //   // val = "vinod thapa";
+  //   // console.log(val);
+  //   let val = myName;
+
+    // (val === 'thapa techncial Subs') ?
+    //   setMyName('vinod thapa') : setMyName('thapa techncial Subs');
+  
+  //   console.log(myName);
+  return (<UseEffectAPI />)
+} 
 
 export default App;
