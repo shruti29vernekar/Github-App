@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Github%20App/static/css/main.a327a94d.chunk.css",
+    "main.js": "/Github%20App/static/js/main.3d45773b.chunk.js",
+    "main.js.map": "/Github%20App/static/js/main.3d45773b.chunk.js.map",
+    "runtime-main.js": "/Github%20App/static/js/runtime-main.c160c92c.js",
+    "runtime-main.js.map": "/Github%20App/static/js/runtime-main.c160c92c.js.map",
+    "static/js/2.44e348eb.chunk.js": "/Github%20App/static/js/2.44e348eb.chunk.js",
+    "static/js/2.44e348eb.chunk.js.map": "/Github%20App/static/js/2.44e348eb.chunk.js.map",
+    "index.html": "/Github%20App/index.html",
+    "static/css/main.a327a94d.chunk.css.map": "/Github%20App/static/css/main.a327a94d.chunk.css.map",
+    "static/js/2.44e348eb.chunk.js.LICENSE.txt": "/Github%20App/static/js/2.44e348eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c160c92c.js",
+    "static/js/2.44e348eb.chunk.js",
+    "static/css/main.a327a94d.chunk.css",
+    "static/js/main.3d45773b.chunk.js"
+  ]
+}
